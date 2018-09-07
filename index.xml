@@ -6,10 +6,19 @@
     <description>Recent content on Children of the earth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Aug 2018 23:11:18 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Sep 2018 22:54:34 +0800</lastBuildDate>
     
 	<atom:link href="https://IgarashiTakashi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HyperledgerFabricNote</title>
+      <link>https://IgarashiTakashi.github.io/post/hyperledgerfabricnote/</link>
+      <pubDate>Fri, 07 Sep 2018 22:54:34 +0800</pubDate>
+      
+      <guid>https://IgarashiTakashi.github.io/post/hyperledgerfabricnote/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The End,The New</title>
@@ -17,7 +26,7 @@
       <pubDate>Sat, 18 Aug 2018 23:11:18 +0800</pubDate>
       
       <guid>https://IgarashiTakashi.github.io/post/the-endthe-new/</guid>
-      <description></description>
+      <description>DLT特点 需要是授权网络；转账操作要安全可信；没有挖矿的概念；可编程</description>
     </item>
     
     <item>
