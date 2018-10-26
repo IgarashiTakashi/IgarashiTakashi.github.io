@@ -6,10 +6,33 @@
     <description>Recent content in Posts on Children of the earth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Oct 2018 17:55:42 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Oct 2018 09:30:12 +0800</lastBuildDate>
     
 	<atom:link href="https://IgarashiTakashi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>未来怅想</title>
+      <link>https://IgarashiTakashi.github.io/post/%E6%9C%AA%E6%9D%A5%E6%80%85%E6%83%B3/</link>
+      <pubDate>Sat, 20 Oct 2018 09:30:12 +0800</pubDate>
+      
+      <guid>https://IgarashiTakashi.github.io/post/%E6%9C%AA%E6%9D%A5%E6%80%85%E6%83%B3/</guid>
+      <description>人类终将灭绝 熵增
+恐龙的进化到顶时他的灭绝日期也不远了
+人类也一样，可能还会更快
+但下一代的主宰也不是机器人
+除非</description>
+    </item>
+    
+    <item>
+      <title>Hyperledger_Sawtooth_Lake学习笔记</title>
+      <link>https://IgarashiTakashi.github.io/post/hyperledger_sawtooth_lake%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Fri, 19 Oct 2018 21:36:25 +0800</pubDate>
+      
+      <guid>https://IgarashiTakashi.github.io/post/hyperledger_sawtooth_lake%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <description>超级账本Sawtooth Lake的两个主要特点:  流逝时间证明(Proof of Elapsed Time,PoET) 事务族(Transaction Families)  PoET简单说就是：随机选择所有参与节点的等待时间，最早苏醒的节点进行提交广播
+事务族：运用一种存储资产所有权记录的机制(SCTP)，结合对象基础架构、数据模型和事务语言，是一套成熟的供应链追溯概念。</description>
+    </item>
     
     <item>
       <title>收藏乐评 《四季ノ呗》</title>
